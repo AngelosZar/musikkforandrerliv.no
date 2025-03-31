@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: NoroffFEU/musikkforandrerliv.no
-  branch: main
+  branch: 719-Decap-CMS
   # local_backend: true
 
   commit_messages:
